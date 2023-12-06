@@ -1,0 +1,30 @@
+/*  parte do header*/
+:root {
+  background-color:   #151619;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  margin-top: 30px;
+}
+
+.but{
+  margin-top: 20px;
+  background-color:   #151619;
+  color: white;
+  border:none
+}
+
+.tex-central{
+  text-align: center;
+  color: white;
+  margin-top: 300px;
+}
+
+.paragrafo{
+  text-align: center;
+  color: #c4b4b4;
+}
+
